@@ -15,7 +15,10 @@
         "LN Full volume mascara" => 215,
         "LN Foundation" => 599,
         "LN Eyeliner" => 99,
-        "LN Eyebrow Pencil" => 179
+        "LN Eyebrow Pencil" => 179,
+        "LN Lip Gloss" => 159,
+        "LN Setting Spray" => 329,
+        "LN Highlighter" => 249
     ];
 
     // for discount 
